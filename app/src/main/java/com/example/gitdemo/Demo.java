@@ -7,5 +7,7 @@ package com.example.gitdemo;
 public class Demo {
     public static void sendHttp(){
 
+        String name = "ads";
+
     }
 }
